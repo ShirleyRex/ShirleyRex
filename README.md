@@ -68,19 +68,6 @@ I'm a **QA Engineer and Software Development Engineer in Test (SDET)** with prov
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![QA Automation Framework](https://github-readme-stats.vercel.app/api/pin/?username=ShirleyRex&repo=qa-automation-framework&theme=tokyonight&hide_border=true)](https://github.com/ShirleyRex/qa-automation-framework)
-[![Postman Test Orchestrator](https://github-readme-stats.vercel.app/api/pin/?username=ShirleyRex&repo=postman-test-orchestrator&theme=tokyonight&hide_border=true)](https://github.com/ShirleyRex/postman-test-orchestrator)
-
-</div>
-
-> 🧩 Scalable test automation frameworks, CI/CD integration pipelines, and comprehensive testing strategies.
-
----
-
 ## 🤝🏽 Connect With Me
 
 <div align="center">
