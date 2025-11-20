@@ -6,7 +6,7 @@
 
 ## 👩🏽‍💻 About Me
 
-I'm a **QA Engineer and Software Development Engineer in Test (SDET)** with proven expertise in **manual and automated testing** across web, API, and mobile platforms. I'm passionate about building robust automation frameworks, optimizing testing efficiency, and ensuring high-quality releases through modern CI/CD pipelines.
+I'm a **QA Engineer** with proven expertise in **manual and automated testing** across web, API, and mobile platforms. I'm passionate about building robust automation frameworks, optimizing testing efficiency, and ensuring high-quality releases through modern CI/CD pipelines.
 
 - 🔭 Currently working at **Errandlr**, enhancing automation and regression testing pipelines
 - 💡 Actively exploring **Playwright**, **Cypress**, and **Performance Testing** best practices
